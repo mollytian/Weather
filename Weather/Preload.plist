@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SavedCities</key>
+	<dict>
+		<key>Travis County</key>
+		<string>78757</string>
+		<key>Poway</key>
+		<string>92127</string>
+		<key>Richardson</key>
+		<string>75080</string>
+		<key>Hoboken</key>
+		<string>10001</string>
+		<key>Milpitas</key>
+		<string>95101</string>
+	</dict>
+</dict>
+</plist>
